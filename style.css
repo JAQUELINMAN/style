@@ -1,0 +1,16 @@
+div {
+	width: 50%;
+	height: 100px;
+	padding: 10px 0px 0px 5px;
+	margin-bottom: 10px;
+}
+
+.bandera-yellow{
+	background-color:#D4AC0D;
+}
+
+.bandera-gris{
+	background-color:#283747;
+	color: #F4F6F7
+}
+
